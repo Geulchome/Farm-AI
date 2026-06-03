@@ -76,3 +76,9 @@ Après déploiement, l’application sera accessible via une URL publique.
 - `.gitignore` : fichiers ignorés par Git
 
 
+
+
+
+## deploiement en ligne (Streamlit Cloud)
+ 1. Pour acceder a l'application : https://ideal-space-bassoon-q7rx5jqww46c459q.github.dev/
+ 2. executer en local : streamlit run streamlit_app.py
